@@ -1,0 +1,20 @@
+{
+    "name": "bravo/store",
+    "description": "e-commerce project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bravo\\Store\\": "src/"
+        },"files" :[
+            "src\\core\\helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "osama gasser",
+            "email": "osamagasser531@gmail.com"
+        }
+    ],
+    "require": {}
+}
